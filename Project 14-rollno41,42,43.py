@@ -1,7 +1,7 @@
 contacts={
 "ARYANSH": 7898798791,
-"KARRI": 1234567890,
-"VANTUBU": 1233443166
+"KARRISYAM": 1234567890,
+"VANTUBUSASI": 1233443166
 }
 
 def single_search():
@@ -12,7 +12,7 @@ def single_search():
         b=input("\nNo contact found")
 
 def multiple_search():
-    result={}j
+    result={}
     s1=[]
     s=0
     name1=input("Enter the names of the contacts").split(",")
