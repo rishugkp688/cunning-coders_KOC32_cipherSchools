@@ -12,7 +12,7 @@ def single_search():
         b=input("\nNo contact found")
 
 def multiple_search():
-    result={}
+    result={}j
     s1=[]
     s=0
     name1=input("Enter the names of the contacts").split(",")
